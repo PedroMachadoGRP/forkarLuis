@@ -2,4 +2,4 @@
 
 <p> Qual a senha do teu cartão? Se não responder eu vou descobir </p>
 
-<img src = ./image.jpgs>
+<img src = ./image.jpg>
