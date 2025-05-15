@@ -1,5 +1,8 @@
 function vezes(num1, num2){
 return num1 * num2;
+}
+function divir(num1, num2){
+return num1 / num2;
 
 }
 
